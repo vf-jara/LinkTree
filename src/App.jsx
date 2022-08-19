@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='bg-sky-100 w-full'>
       <div className='flex flex-col mx-auto min-h-screen max-w-[500px] items-center py-10 '>
-        <div>
+        <div className='fade'>
           <img src="https://github.com/vf-jara.png" className='rounded-full p-[2px] border-4 border-sky-700 h-[150px]' />
         </div>
         <div className='py-5 text-center'>
