@@ -15,7 +15,7 @@ function App() {
         </div>
         <div className='w-full flex flex-col gap-5 px-10'>
           <a href='https://github.com/vf-jara' target="_blank" className='card font-medium text-xl'>
-            <div className='bg-gray-800 text-white flex rounded-md'>
+            <div className='bg-gray-800 text-white flex rounded-md shadow-md'>
               <div className=' px-5 py-3'>
                 <GithubLogo size={35} />
               </div>
@@ -25,7 +25,7 @@ function App() {
             </div>
           </a>
           <a href='https://www.linkedin.com/in/vfjara21/' target="_blank" className='card2 delay-75 font-medium text-xl'>
-            <div className='bg-[#0a66c2] text-white flex rounded-md'>
+            <div className='bg-[#0a66c2] text-white flex rounded-md shadow-md'>
               <div className=' px-5 py-3'>
                 <LinkedinLogo size={35} />
               </div>
@@ -35,7 +35,7 @@ function App() {
             </div>
           </a>
           <a href='mailto:viniciusfjara@gmail.com' target="_blank" className='card3 delay-150 font-medium text-xl'>
-            <div className='bg-[#c5221f] text-white flex rounded-md'>
+            <div className='bg-[#c5221f] text-white flex rounded-md shadow-md'>
               <div className=' px-5 py-3'>
                 <Envelope size={35} />
               </div>
