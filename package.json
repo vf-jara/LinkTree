@@ -1,7 +1,7 @@
 {
   "name": "linktree",
   "private": true,
-  "homepage": "https://vf-jara.github.io/LinkTree", 
+  "homepage": "https://vf-jara.github.io/LinkTree",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -12,7 +12,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
