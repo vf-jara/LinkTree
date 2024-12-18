@@ -11,7 +11,7 @@ function App() {
         </div>
         <div className='py-5 text-center'>
           <h1 className='text-2xl font-bold'>Vinicius Franco Jara</h1>
-          <p>Desenvolvedor Front-End<br />JavaScript | React | Next.js</p>
+          <p>Desenvolvedor de Software<br />JavaScript | React | React Native | Node</p>
         </div>
         <div className='w-full flex flex-col gap-5 px-10'>
           <a href='https://github.com/vf-jara' target="_blank" className='card font-medium text-xl'>
